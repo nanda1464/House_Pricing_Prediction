@@ -11,7 +11,7 @@ Proyek ini bertujuan untuk membangun model Linear Regression yang dapat mempredi
   3. Lokasi atau kode pos (jika tersedia)  
   4. Fitur lainnya yang memengaruhi harga properti
 
-# Equipment’s required:
+# Tools & Library:
   1. Python
   2. Scikit-Learn
   3. Pandas
