@@ -28,3 +28,8 @@ Proyek ini bertujuan untuk membangun model Linear Regression yang dapat mempredi
   1. Mean Squared Error (MSE)
   2. Root Mean Squared Error (RMSE)
   3. R² Score (koefisien determinasi)
+
+# Visualisasi
+![Screenshot 2025-05-15 224414](https://github.com/user-attachments/assets/bd886e1b-e045-4210-b4c7-c2e3636f9737)
+
+
