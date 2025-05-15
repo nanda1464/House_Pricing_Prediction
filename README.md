@@ -22,12 +22,11 @@ Proyek ini bertujuan untuk membangun model Linear Regression yang dapat mempredi
   1. Pembersihan Data – Menghapus nilai kosong (missing values) dan data yang tidak relevan.
   2. Visualisasi Data – Menampilkan hubungan antar variabel menggunakan grafik scatter dan heatmap korelasi.
   3. Pelatihan Model – Menggunakan Linear Regression dari pustaka Scikit-Learn untuk mempelajari hubungan antara fitur dan harga rumah.
-  4. Prediksi – Menguji model dengan data baru atau data uji untuk melihat performa prediksi harga rumah.
-
-# Evaluasi Model
-  1. Mean Squared Error (MSE)
-  2. Root Mean Squared Error (RMSE)
-  3. R² Score (koefisien determinasi)
+  4. Evaluasi Model:
+    * Mean Squared Error (MSE)
+    * Root Mean Squared Error (RMSE)
+    * R² Score (koefisien determinasi)
+  6. Prediksi – Menguji model dengan data baru atau data uji untuk melihat performa prediksi harga rumah.
 
 # Visualisasi
 ![Screenshot 2025-05-15 224414](https://github.com/user-attachments/assets/bd886e1b-e045-4210-b4c7-c2e3636f9737)
