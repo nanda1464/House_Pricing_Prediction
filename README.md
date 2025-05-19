@@ -1,4 +1,4 @@
-# House_Pricing_Prediction
+# Prediksi-Harga-Rumah-Dengan-Linear-Regression
 Proyek ini menggunakan pendekatan regresi linier sederhana dan/atau berganda untuk membangun model prediktif dari dataset harga rumah. Proses yang dilakukan meliputi:
   1. Prapemrosesan data
   2. Eksplorasi data dan visualisasi
